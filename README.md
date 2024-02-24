@@ -1,4 +1,9 @@
-### Hi there 👋
+# Bozy
+
+**`Programming Student`**
+
+### Stats
+![Bozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bozy&show_icons=true&theme=radical)
 
 <!--
 **B0zy/B0zy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
