@@ -1,21 +1,10 @@
-# Bozy
+# Hi there 👋
+I'm a passionate and dedicated developer for Gmod/gLua and currently tinker with S&box. I'm Currently working on a project called [X<sup>2</sup>](https://github.com/XSquaredFramework/XSquared) a build from the ground-up reimagining of the XRP Gamemode once popular for SCPRP. 
 
-**`Programming Student`**
+![Profile Views](https://komarev.com/ghpvc/?username=B0zy&color=blue)
 
-### Stats
-![Bozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0zy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B0zy&layout=compact&theme=dark)
 
-<!--
-**B0zy/B0zy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0zy&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B0zy&theme=dark)
